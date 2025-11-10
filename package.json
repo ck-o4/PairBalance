@@ -1,0 +1,28 @@
+{
+  "name": "pairbalance",
+  "version": "1.0.0",
+  "description": "Discord bot that creates a running balance between two users for when it gets too difficult to keep up with how much you owe.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ck-o4/PairBalance.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ck-o4/PairBalance/issues"
+  },
+  "homepage": "https://github.com/ck-o4/PairBalance#readme",
+  "dependencies": {
+    "discord.js": "^14.24.2"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.39.1",
+    "eslint": "^9.39.1"
+  }
+}
